@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: goserver
-  newName: fernandomarca/gitops.git
-  newTag: newtag
+  newName: fernandomarca/gitopsfc
+  newTag: 634792eff94c9a7ee8dc65f1455d547792c7a032
