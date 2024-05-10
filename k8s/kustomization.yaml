@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: fernandomarca/gitopsfc
-  newTag: 634792eff94c9a7ee8dc65f1455d547792c7a032
+  newTag: b35baaf5b5e05c5b5ecc104a0e77c6c6ed931d1a
